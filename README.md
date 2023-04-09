@@ -1,1 +1,1 @@
-<img src="mV.png" width="128"/>
+![click me]mV.png
